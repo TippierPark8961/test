@@ -1,0 +1,8 @@
+displayName: "test"
+name: "test"
+author: "Uujuju"
+main: "test.test"
+description: "test..."
+version: 1
+minGameVersion: 126
+java: true
